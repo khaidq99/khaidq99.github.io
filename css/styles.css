@@ -201,3 +201,7 @@ input[type=button] {
     top: 25px;
     margin-left: 25px;
 }
+
+.fas.fa-grin-squint-tears {
+	color: orange;
+}
