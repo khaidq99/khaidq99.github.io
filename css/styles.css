@@ -27,7 +27,7 @@ position: fixed;
 	margin: 0 auto;
 	text-align: center;
 	font-family: 'Source Sans Pro', sans-serif;
-	color: #FFF;
+	color: #352f2f;
 	font-size: 16px;
 }
 
@@ -35,7 +35,7 @@ h1 {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 72px;
 	font-weight: lighter;
-	color: #FFF;
+	color: #352f2f;
 }
 #divResult h2{
     font-family: 'Source Sans Pro', sans-serif;
