@@ -7,7 +7,7 @@
 }
 
 body {
-background: url('2.png');
+background: url('1.jpg');
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -27,7 +27,7 @@ position: fixed;
 	margin: 0 auto;
 	text-align: center;
 	font-family: 'Source Sans Pro', sans-serif;
-	color: #352f2f;
+	color: #fff;
 	font-size: 16px;
 }
 
@@ -35,7 +35,7 @@ h1 {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 72px;
 	font-weight: lighter;
-	color: #352f2f;
+	color: #fff;
 }
 #divResult h2{
     font-family: 'Source Sans Pro', sans-serif;
